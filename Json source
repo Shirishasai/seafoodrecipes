@@ -1,0 +1,79 @@
+
+    {
+        "id": "Fish_Curry",
+        "imageUrl": "/images/chickenmajestic.webp",
+        "name": "chicken majestic",
+        "prepTime": "10 mins",
+        "cookTime": "30 Mins",
+        "serves": "3",
+        "contents": [
+            {
+                "title": "Ingredients (240ml cup used)",
+                "children": [
+                    {
+                        "title": "Marination ingredients",
+                        "data": [
+                            "1.1 lbs (½ kg) Fish (any firm fish)",
+                            "½ tbsp ginger garlic paste",
+                            "⅛ tsp turmeric",
+                            "¼ to ½ tsp Kashmiri red chili powder",
+                            "¼ tsp salt or as needed"
+                        ]
+                    },
+                    {
+                        "title": "To Saute and puree",
+                        "data": [
+                            "1tbsp oil (adjust as needed)",
+                            "½tsp cumin seeds (jeera)",
+                            "2medium onions sliced about 1 cup sliced",
+                            "½tbsp ginger garlic minced or paste",
+                            "2medium tomatoes ripe (¾ to 1 cup chopped)",
+                            "½tsp salt (adjust to taste)",
+                            "1tsp Kashmiri red chilli powder (adjust as needed)",
+                            "⅛tsp turmeric",
+                            "½tsp fennel seeds (optional) (saunf)",
+                            "2tbsp coconut (grated or ¼ cup coconut milk or 12 cashew nuts)"
+                        ]
+                    },
+                    {
+                        "title": "For The Curry",
+                        "data": [
+                            "1 tbsp oil",
+                            "1 sprig curry leaves or small bay leaf 1 to 2 green chili (chopped or slit)",
+                            "1 to 1 ½ tsp garam masala or curry powder as needed (refer notes) 1¼ to 1½ cup water"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "How to make the recipe",
+                "children": [
+                    {
+                        "title": "Preparation",
+                        "data": [
+                            "1.Marinate fish with ½ tbsp ginger garlic paste, ⅛ tsp turmeric, ¼ tsp red chilli powder & ¼ tsp salt.",
+                            "2.On a flat fry pan, heat 1 tsp oil. Fry fish pieces slightly until the raw smell goes away just for 2 to 3 mins on both sides. You can also sear the fish. Keep this aside.",
+                            "3.Heat 1 tbsp oil in a pot and add cumin. When they sputter, add onions and saute until lightly golden.",
+                            "4.Next add ginger garlic paste and saute for 30 seconds. Add tomatoes & ½ tsp salt. Saute until tomatoes turn soft and mushy.",
+                            "5.Next add coconut, fennel seeds (optional), red chili powder & turmeric. Fry until the mixture turns fragrant & raw smell has gone away.",
+                            "6.Cool this & add to a blender jar along with 2 to 4 tbsps water. Blend to a smooth or coarse paste to suit your liking. (refer notes). You can also use a immersion blender. Keep this aside."
+                        ]
+                    },
+                    {
+                        "title": "Cooking process",
+                        "data": [
+                            "1.Add 1 tbsp more oil to the same pot used earlier. Heat up on a low flame.",
+                            "2.When the oil turns slightly hot, add curry leaves & green chilies.",
+                            "3.When they splutter, add the ground onion tomato paste and garam masala. Taste test the paste and add more chilli powder at this stage if you want more heat or more deeper color.",
+                            "4.Saute until the mixture smells good.",
+                            "5.Pour 1 ¼ to 1½ cup water. Mix and bring it to a boil. Cook until you see traces of oil on the surface and the gravy thickens a bit.",
+                            "6.Gently slide the fish pieces and cook covered on a medium heat.",
+                            "7.Carefully flip or turn the pieces to the other side after 3 to 4 mins.",
+                            "8.Cook until the fish pieces bulge a bit. This is the indication they are cooked completely. Taste the curry and add more salt if needed.",
+                            "9.Optionally garnish fish curry with coriander leaves if desired."
+                        ]
+                    }
+                ]
+
+
+                 
